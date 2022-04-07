@@ -119,14 +119,14 @@ footer {
 
 section#imagem01 {
 
-    background-image: url(../imagens/background001.jpg);
+    background-image: url(imagens/background001.jpg);
     background-position: right center;
 
 }
 
 section#imagem02 {
 
-    background-image: url(../imagens/background002.jpg);
+    background-image: url(imagens/background002.jpg);
     background-position: right center;
 }
 
